@@ -1,19 +1,19 @@
 ---
 title: "Contact"
-logo: "/img/logo.svg"
+logo: "site/static/img/Screenshot_20230209-093516.png"
 contact_entries:
   - heading: Location
-    text: "3153 Lynn Avenue, South San Francisco, California 94080"
+    text: "11, Folawiyo bonkole street, ikete,surulere,lagos,Nigeria"
   - heading: Working hours
-    text: "Monday – Saturday: 9AM – 7PM We’re closed on Sundays"
+    text: "Monday – Saturday: 9AM – 7PM I am closed on Sundays"
 ---
 
-We’d love to get in touch with you and hear your ideas and
-questions. We strive to grow and improve constantly and your feedback
-is valuable for us.
+I love to get in touch with you and hear your ideas and
+questions. I strive to grow and improve constantly and your feedback
+is valuable for me.
 
 <h3 class="f4 b lh-title mb2">How can I get…?</h3>
 
-You can also use the form below for any inquiries about coffee
+You can also use the form below for any inquiries about web design and development 
 availability, monthly subscriptions and scheduling a 1-on-1 session
-with our baristas. Don’t be shy, drop us a line!
+with me. Don’t be shy, drop me a line!
